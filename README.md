@@ -408,7 +408,6 @@ MIT License - 查看 [LICENSE](LICENSE) 文件了解详情
 
 - 📮 报告 Bug：在 GitHub 上提交 Issue
 - 💬 讨论：GitHub Discussions
-- 📧 联系方式：[your-email@example.com](mailto:your-email@example.com)
 
 ## 🎉 鸣谢
 
@@ -431,21 +430,13 @@ Test Coverage       --
 
 ## ⭐ 如果觉得有帮助，请给个 Star！
 
-![Stars](https://img.shields.io/github/stars/yourusername/Python_Learn?style=social)
+![Stars](https://github.com/JackLinChina/Python)
 
 ---
 
 **最后更新**: 2026-04-14  
-**维护者**: [Your Name](https://github.com/yourusername)  
 **License**: MIT
 
 ---
-
-## 📞 联系方式
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- WeChat: [wechat-id]
-- QQ: [qq-number]
 
 **Happy Coding! 🚀**
